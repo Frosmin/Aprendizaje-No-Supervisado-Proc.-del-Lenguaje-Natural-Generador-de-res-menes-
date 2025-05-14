@@ -1,1 +1,3 @@
-# Aprendizaje-No-Supervisado-Proc.-del-Lenguaje-Natural-Generador-de-res-menes-
+# Aprendizaje No Supervisado
+# Proc.del Lenguaje Natural
+# Generador de resumenes
